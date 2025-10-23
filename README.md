@@ -46,10 +46,11 @@ Web Dashboard Development: Build a teacher dashboard (using HTML/JS/Tailwind) to
 
 
 This is a conceptual Python script outlining the core logic using standard libraries.
-
+```
 import cv2
 import face_recognition # Assumes installation of DLib/face_recognition
 import numpy as np
+```
 # Placeholder for Firebase/Firestore imports
 
 # --- STEP 1: Load Enrolled Data ---
